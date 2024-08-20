@@ -1,4 +1,4 @@
-# CSL801  Distributed Computing Lab
+# CSL801_Distributed Computing Lab
 ## Lab Objectives:
 1 To understand basic underlying concepts of forming distributed systems.
 
